@@ -1405,6 +1405,9 @@
 		C3A105A018823B77004A45E4 /* TitleScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3A1059D18823B77004A45E4 /* TitleScene.cpp */; };
 		C3A105A318823C05004A45E4 /* FDSpriteStore.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3A105A118823C05004A45E4 /* FDSpriteStore.cpp */; };
 		C3A105A7188292EA004A45E4 /* FDAudioEngine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3A105A5188292EA004A45E4 /* FDAudioEngine.cpp */; };
+		C3A105AF18829FB8004A45E4 /* AUTHORS in Resources */ = {isa = PBXBuildFile; fileRef = C3A105AE18829FB8004A45E4 /* AUTHORS */; };
+		C3A105B118829FC4004A45E4 /* CHANGELOG in Resources */ = {isa = PBXBuildFile; fileRef = C3A105B018829FC4004A45E4 /* CHANGELOG */; };
+		C3A105B318829FC9004A45E4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C3A105B218829FC9004A45E4 /* README.md */; };
 		C3A1E4131878DDDC004A45E4 /* FlameDragonAppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3A1E4121878DDDC004A45E4 /* FlameDragonAppDelegate.cpp */; };
 		C3A1F52D1878EB81004A45E4 /* Explode-01.png in Resources */ = {isa = PBXBuildFile; fileRef = C3A1E4191878EB78004A45E4 /* Explode-01.png */; };
 		C3A1F52E1878EB81004A45E4 /* Explode-02.png in Resources */ = {isa = PBXBuildFile; fileRef = C3A1E41A1878EB78004A45E4 /* Explode-02.png */; };
@@ -4420,6 +4423,9 @@
 		C3A105A218823C05004A45E4 /* FDSpriteStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDSpriteStore.h; sourceTree = "<group>"; };
 		C3A105A5188292EA004A45E4 /* FDAudioEngine.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FDAudioEngine.cpp; sourceTree = "<group>"; };
 		C3A105A6188292EA004A45E4 /* FDAudioEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FDAudioEngine.h; sourceTree = "<group>"; };
+		C3A105AE18829FB8004A45E4 /* AUTHORS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = AUTHORS; path = "/Users/yongshi/cocos2d-x-3.0alpha1/build/../AUTHORS"; sourceTree = "<absolute>"; };
+		C3A105B018829FC4004A45E4 /* CHANGELOG */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CHANGELOG; path = "/Users/yongshi/cocos2d-x-3.0alpha1/build/../CHANGELOG"; sourceTree = "<absolute>"; };
+		C3A105B218829FC9004A45E4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = "/Users/yongshi/cocos2d-x-3.0alpha1/build/../README.md"; sourceTree = "<absolute>"; };
 		C3A1E4111878DDDC004A45E4 /* FlameDragonAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlameDragonAppDelegate.h; path = ../Classes/FlameDragonAppDelegate.h; sourceTree = "<group>"; };
 		C3A1E4121878DDDC004A45E4 /* FlameDragonAppDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = FlameDragonAppDelegate.cpp; path = ../Classes/FlameDragonAppDelegate.cpp; sourceTree = "<group>"; };
 		C3A1E4191878EB78004A45E4 /* Explode-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Explode-01.png"; sourceTree = "<group>"; };
@@ -8655,6 +8661,9 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				C3A105B218829FC9004A45E4 /* README.md */,
+				C3A105B018829FC4004A45E4 /* CHANGELOG */,
+				C3A105AE18829FB8004A45E4 /* AUTHORS */,
 				1AC6FAE5180E9839004C840B /* cocos2d_libs.xcodeproj */,
 				15AA9C4015B7EC450033D6C2 /* Classes */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
@@ -15522,6 +15531,7 @@
 				C3A1FF061878EB81004A45E4 /* Icon-012-11.png in Resources */,
 				C3A100421878EB81004A45E4 /* Icon-108-03.png in Resources */,
 				C3A1FF371878EB81004A45E4 /* Icon-016-12.png in Resources */,
+				C3A105B318829FC9004A45E4 /* README.md in Resources */,
 				C3A1F6091878EB81004A45E4 /* Dato-727-1.png in Resources */,
 				C3A103621878EB82004A45E4 /* Icon-744-11.png in Resources */,
 				C3A1F5F11878EB81004A45E4 /* Dato-703-1.png in Resources */,
@@ -16766,6 +16776,7 @@
 				C3A1FB1C1878EB81004A45E4 /* Fight-709-2-08.png in Resources */,
 				C3A1025C1878EB81004A45E4 /* Icon-722-01.png in Resources */,
 				C3A1F8C51878EB81004A45E4 /* Fight-106-2-08.png in Resources */,
+				C3A105B118829FC4004A45E4 /* CHANGELOG in Resources */,
 				C3A1F7471878EB81004A45E4 /* Fight-017-2-10.png in Resources */,
 				C3A103CF1878EB82004A45E4 /* Icon-753-12.png in Resources */,
 				C3A1FF5D1878EB81004A45E4 /* Icon-020-02.png in Resources */,
@@ -18899,6 +18910,7 @@
 				C3A1F54F1878EB81004A45E4 /* Background-15.png in Resources */,
 				C3A1FFE11878EB81004A45E4 /* Icon-031-02.png in Resources */,
 				C3A100F31878EB81004A45E4 /* Icon-206-12.png in Resources */,
+				C3A105AF18829FB8004A45E4 /* AUTHORS in Resources */,
 				C3A103E01878EB82004A45E4 /* Icon-755-05.png in Resources */,
 				C3A1FDC61878EB81004A45E4 /* Fight-755-3-02.png in Resources */,
 				C3A100A51878EB81004A45E4 /* Icon-116-06.png in Resources */,
